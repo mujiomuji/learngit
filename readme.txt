@@ -4,5 +4,3 @@ Git has a mutable index called stage.
 Creating a new branch is quick and simple.
 add merge for dev
 git merge --no-ff -m "merge with no-ff" dev
-
-readme.txt issue-101
